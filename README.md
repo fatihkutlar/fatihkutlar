@@ -6,15 +6,7 @@
 <a href="https://github.com/fatihkutlar/fatihkutlar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihkutlar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Fatih Kutlar's GitHub Stats" />
 </a>
-
-<a href="https://github.com/fatihkutlar/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fatihkutlar&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/fatihkutlar/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fatihkutlar&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+   
 
 <!-- links to social media icons -->
 
