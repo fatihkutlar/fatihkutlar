@@ -1,20 +1,37 @@
-### 📕 Latest Blog Posts
+## &#x1f4c8; GitHub Stats
 
-<!-- BLOG-POST-LIST:START -->
-- [example title](url)
-- [example title](url)
-- [example title](url)
-- [example title](url)
-<!-- BLOG-POST-LIST:END -->
+<a href="https://github.com/fatihkutlar/fatihkutlar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihkutlar&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/fatihkutlar/fatihkutlar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihkutlar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Fatih Kutlar's GitHub Stats" />
+</a>
 
----
+<a href="https://github.com/fatihkutlar/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fatihkutlar&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="fatihkutlar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fatihkutlar&show_icons=true&hide_border=true" />
+<a href="https://github.com/fatihkutlar/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fatihkutlar&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
-</details>
+<!-- links to social media icons -->
 
-[website]: https://fatihkutlar.com
-[instagram]: https://instagram.com/fatihkutlarf
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://instagram.com/fatihkutlarf
+[2]: https://github.com/fatihkutlar
+[3]: https://www.medium.com/@fatihkutlarf
