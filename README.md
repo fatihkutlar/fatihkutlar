@@ -2,4 +2,3 @@
 <p align='center'>
 I'm Fatih.
 </p>
-<p align='center'><a href="fatihkutlarf@gmail.com">Mail</a>.</p>
