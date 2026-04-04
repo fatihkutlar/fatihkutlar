@@ -2,7 +2,7 @@
 
 **Automation Architect · Vibe Coder · Business × Tech Integrator**
 
-*Gießen, Germany 🇩🇪*
+*Gießen, Germany*
 
 [![Website](https://img.shields.io/badge/fatihkutlar.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fatihkutlar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihkutlar/)
